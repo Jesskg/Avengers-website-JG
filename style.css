@@ -7,8 +7,7 @@ h2{
     font-size: 60px;
     font-style: italic;
     color: cornflowerblue;
-
-    padding-left: 500px;
+    text-align: center;
 }
 h4{
     font-family: Impact, fantasy;
@@ -38,4 +37,9 @@ h4{
 
 #menu a:hover{
     color: #5077bd;
+}
+
+@media (max-width: 600px) {
+    h2 { font-size: 36px; }
+    #menu { height: auto; padding: 8px 4px; }
 }
