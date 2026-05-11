@@ -6,7 +6,7 @@
 
 ## What this is
 
-A multi-page Avengers character website — built in the very early days of my coding journey at the **FNB App Academy** in 2025.
+A multi-page Avengers character website - built in the very early days of my coding journey at the **FNB App Academy** in 2025.
 
 Each page shows a character's bio and power stats. Simple nav, an image gallery on the home page, and individual pages for Thor, Iron Man, Hulk, Black Widow, Hawkeye, and Captain America.
 
@@ -21,7 +21,7 @@ This was one of my first ever HTML/CSS projects. I had just been introduced to:
 - How to create multiple pages and link between them
 - Basic CSS for layout and colour
 
-If you look at the code, you'll see things like a nav bar accidentally placed inside `<head>`, hardcoded `padding-left: 500px`, no responsive design, and no JavaScript. That's not an accident — **that's exactly where I was at the time.**
+If you look at the code, you'll see things like a nav bar accidentally placed inside `<head>`, hardcoded `padding-left: 500px`, no responsive design, and no JavaScript. That's not an accident - **that's exactly where I was at the time.**
 
 I'm keeping this code as close to the original as possible because it's an honest snapshot of Day 1. Every developer starts somewhere, and this is where I started.
 
@@ -46,7 +46,7 @@ The distance between this project and where I am now is the whole point of shari
 - HTML
 - CSS
 
-No frameworks. No libraries. Just the basics — which is exactly right for where I was.
+No frameworks. No libraries. Just the basics - which is exactly right for where I was.
 
 ---
 
